@@ -464,7 +464,7 @@ ol {
 
 .social-section .social-link-warp h2 {
 	display: inline-block;
-	float: right;
+	/* float: right; */
 	font-weight: 400;
 	padding-left: 30px;
 	background: #f9f9f9;
