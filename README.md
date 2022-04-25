@@ -1,3 +1,3 @@
 # Blinked238.github.io
 
-My personal website : www.justinyeow.me
+My personal website : https://www.justinyeow.me/
