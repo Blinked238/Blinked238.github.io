@@ -367,7 +367,7 @@ ol {
 -----------------------*/
 .header-section {
 	padding: 50px 40px;
-	background: #bac7b5da;
+	background: #f2f7f8;
 }
 
 .site-logo h2 {
@@ -441,7 +441,7 @@ ol {
 	Social section
 -----------------------*/
 .social-section {
-	background: #bac7b5da;
+	background: #f9f9f9;
 	padding: 80px 0;
 }
 
@@ -464,7 +464,7 @@ ol {
 
 .social-section .social-link-warp h2 {
 	display: inline-block;
-	/* float: right; */
+	float: right;
 	font-weight: 400;
 	padding-left: 30px;
 	background: #f9f9f9;
