@@ -1,8 +1,6 @@
-BODY,H1,H3,H4, H5, H6, TH, TD {
-    font-family: arial, helvetica, sans-serif;
+BODY,H1,H2,H3,H4, H5, H6, TH, TD {
+    font-family: monospace;
 }
 
-H2{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-}
+
 
